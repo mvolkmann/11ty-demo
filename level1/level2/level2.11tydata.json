@@ -1,0 +1,8 @@
+{
+  "dogsx": [
+    {"name": "Dasher JSON2", "breed": "Whippet"},
+    {"name": "Maisey JSON2", "breed": "Treeing Walker Coonhound"},
+    {"name": "Ramsey JSON2", "breed": "Native American Indian Dog"},
+    {"name": "Oscar JSON2", "breed": "German Shorthaired Pointer"}
+  ]
+}
